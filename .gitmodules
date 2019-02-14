@@ -1,0 +1,6 @@
+[submodule "weatherapp-frontend"]
+	path = weatherapp-frontend
+	url = https://github.com/Nykseli/weatherapp-frontend
+[submodule "weatherapp-backend"]
+	path = weatherapp-backend
+	url = https://github.com/Nykseli/weatherapp-backend
